@@ -4,7 +4,7 @@
 
 ### Software Engineer • Indie Maker • Mobile Application Developer
 
-> *Building software that solves real-world problems.*
+> *Building software for the joy of it. Building software that solves real-world problems.*
 
 <br>
 
