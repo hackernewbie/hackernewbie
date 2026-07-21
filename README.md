@@ -4,71 +4,33 @@
 
 ### Software Engineer • Indie Maker • Mobile Application Developer
 
-> *Building software for the joy of it. Building software that solves real-world problems.*
+*Building software that solves real-world problems.*
 
-<br>
+---
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=hackernewbie&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/hackernewbie?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/stars/hackernewbie?affiliations=OWNER&style=for-the-badge" />
-</p>
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Coming%20Soon-success?style=flat-square)](#)
+[![Website](https://img.shields.io/badge/🖥%20Snipper-getsnipper.app-blue?style=flat-square)](https://getsnipper.app)
+[![Website](https://img.shields.io/badge/📄%20Sliqrr-sliqrr.in-success?style=flat-square)](https://sliqrr.in)
+[![Twitter](https://img.shields.io/badge/Twitter-@hackernewbie-1DA1F2?style=flat-square&logo=x)](https://x.com/hackernewbie)
+[![GitHub](https://img.shields.io/badge/GitHub-hackernewbie-181717?style=flat-square&logo=github)](https://github.com/hackernewbie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajiv%20Verma-0077B5?style=flat-square&logo=linkedin)](#)
 
 </div>
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
-I'm a software engineer from India passionate about building software that people genuinely enjoy using. I enjoy taking ideas from concept to production, whether it's a Windows desktop application, a mobile app, a web platform, or an open-source package.
+I'm a software engineer from India passionate about building products that solve real-world problems.
 
-My work focuses on creating practical, polished products that solve real problems.
+I enjoy designing and shipping desktop applications, mobile apps, web platforms and developer tools with a strong focus on usability and craftsmanship.
 
----
+Current focus:
 
-# 🚀 Featured Products
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🖥 Snipper
-
-Beautiful screenshots for Windows.
-
-- ⚡ Instant screenshots
-- 🎨 Beautiful backgrounds
-- 📋 One-click copy & export
-
-<p>
-<a href="https://getsnipper.app">
-<img src="https://img.shields.io/badge/Visit-getsnipper.app-blue?style=for-the-badge" />
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📄 Sliqrr
-
-Lean invoicing software built for freelancers and small businesses.
-
-- 📄 Professional invoices
-- 💰 Simple billing
-- 📈 Clean workflow
-
-<p>
-<a href="https://sliqrr.in">
-<img src="https://img.shields.io/badge/Visit-sliqrr.in-success?style=for-the-badge" />
-</a>
-</p>
-
-</td>
-
-</tr>
-</table>
+- 🖥️ Snipper — Beautiful screenshots for Windows
+- 📄 Sliqrr — Lean invoicing software
+- 📱 Flutter applications
+- ☁️ Laravel & AWS powered products
 
 ---
 
@@ -76,133 +38,69 @@ Lean invoicing software built for freelancers and small businesses.
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,aws" />
-</p>
-
-### Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
-### Desktop
-
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
-</p>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
-### Tools
+### Mobile
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+### Databases & Infra
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+
+### Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-# 📊 GitHub Dashboard
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hackernewbie&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=hackernewbie&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" height="170"/>
 
-<img width="48%" src="https://streak-stats.demolab.com?user=hackernewbie&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=hackernewbie&hide_border=true" height="170"/>
 
 </p>
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackernewbie&layout=compact&hide_border=true" />
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hackernewbie&theme=github" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackernewbie&layout=compact&hide_border=true" height="170"/>
 
 </p>
 
-> 🔥 **Commit streaks are my favorite metric.** Consistency matters more than intensity, and I enjoy keeping the streak alive every day.
+> 🔥 **Commit streaks are my favourite metric.** I believe consistency beats intensity.
 
 ---
 
-# 📈 Activity Graph
+# 🏆 Achievements
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hackernewbie&theme=github-compact&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=hackernewbie&theme=flat&no-frame=true&row=1&column=6"/>
 
 </p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hackernewbie&theme=flat&no-frame=true&margin-w=10&row=1" />
-
-</p>
-
----
-
-# 🌱 Currently Building
-
-- 🖥 Snipper
-- 📄 Sliqrr
-- 📱 Flutter applications
-- ☁ Laravel & AWS powered products
-
----
-
-# 💡 Areas of Interest
-
-- Desktop Applications
-- Mobile Applications
-- Web Applications
-- Developer Productivity
-- Cloud Services
-- UI/UX
-- Product Engineering
-
----
-
-# 📌 Philosophy
-
-> Build software that solves real problems—not software that merely demonstrates technology.
-
----
-
-# 📫 Connect
-
-<p align="center">
-
-<a href="https://github.com/hackernewbie">
-GitHub
-</a>
-
-&nbsp;•&nbsp;
-
-<a href="https://getsnipper.app">
-Snipper
-</a>
-
-&nbsp;•&nbsp;
-
-<a href="https://sliqrr.in">
-Sliqrr
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for stopping by!
-
-If you find one of my projects useful, consider starring a repository or checking out one of my products.
-
-</div>
