@@ -8,7 +8,7 @@
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Coming%20Soon-success?style=flat-square)](https://wwww.rajivverma.me/link)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Coming%20Soon-success?style=flat-square)](https://wwww.rajivverma.me/)
 [![Website](https://img.shields.io/badge/🖥%20Snipper-getsnipper.app-blue?style=flat-square)](https://getsnipper.app)
 [![Website](https://img.shields.io/badge/📄%20Sliqrr-sliqrr.in-success?style=flat-square)](https://sliqrr.in)
 [![Twitter](https://img.shields.io/badge/Twitter-@hackernewbie-1DA1F2?style=flat-square&logo=x)](https://x.com/hackernewbie)
