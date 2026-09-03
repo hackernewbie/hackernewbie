@@ -27,8 +27,8 @@ I enjoy designing and shipping desktop applications, mobile apps, web platforms 
 
 Current focus:
 
-- 🖥️ Snipper — Beautiful screenshots for Windows
-- 📄 Sliqrr — Lean invoicing software
+- 🖥️ Snipper — Beautiful screenshots for Windows (https://www.getsnipper.app/)
+- 📄 Sliqrr — Lean invoicing software (https://www.sliqrr.in/)
 - 📱 Flutter applications
 - ☁️ Laravel & AWS powered products
 
