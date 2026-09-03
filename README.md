@@ -8,12 +8,12 @@
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Coming%20Soon-success?style=flat-square)](#)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Coming%20Soon-success?style=flat-square)](https://wwww.rajivverma.me/link)
 [![Website](https://img.shields.io/badge/🖥%20Snipper-getsnipper.app-blue?style=flat-square)](https://getsnipper.app)
 [![Website](https://img.shields.io/badge/📄%20Sliqrr-sliqrr.in-success?style=flat-square)](https://sliqrr.in)
 [![Twitter](https://img.shields.io/badge/Twitter-@hackernewbie-1DA1F2?style=flat-square&logo=x)](https://x.com/hackernewbie)
 [![GitHub](https://img.shields.io/badge/GitHub-hackernewbie-181717?style=flat-square&logo=github)](https://github.com/hackernewbie)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajiv%20Verma-0077B5?style=flat-square&logo=linkedin)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajiv%20Verma-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rajiv-verma-6409b07/)
 
 </div>
 
